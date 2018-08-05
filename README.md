@@ -1,7 +1,7 @@
 # Assistive Grasping UI
 The Assistive Grasping UI that is needed for running the medical campus Mico experiments. Users can interact with the interface through a mouse, Alexa, a binary switch, or an sEMG device. The interface provides features for controlling a robotic arm, allowing those with spinal chord injuries to perform grasping tasks. 
 
-Check out the demo for a quick overview!
+Check out the [demo](https://github.com/grawson/assistive_grasping_ui/blob/master/demo.mov) for a quick overview!
 
 # Install
 1) Install node and npm, then run `npm install`
